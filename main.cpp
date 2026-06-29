@@ -171,7 +171,7 @@ int main() {
                             }
                             
                             stringstream ss;
-                            ss << "Se encoló el Pedido #" << idPedGlobal;
+                            ss << "Se encolï¿½ el Pedido #" << idPedGlobal;
                             registrarAccion(pilaAcciones, idAccGlobal++, ss.str());
                             idPedGlobal++;
                         }
@@ -229,7 +229,7 @@ int main() {
                 break;
                 
             case 3:
-                cout << "\nFinalizando ejecucion del sistema. ¡Buen dia, Grupo 4!\n";
+                cout << "\nFinalizando ejecucion del sistema. ï¿½Buen dia, Grupo 4!\n";
                 break;
                 
             default:
